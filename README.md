@@ -150,7 +150,7 @@ crontab -e
 添加：
 
 ```cron
-0 12 * * * TZ=Asia/Tokyo FEISHU_TOKEN=your_feishu_bot_token /root/domain-monitor/domain_check.sh >/dev/null 2>&1
+0 12 * * * TZ=Asia/Shanghai FEISHU_TOKEN=your_token /root/domain-monitor/domain_check.sh >/dev/null 2>&1
 ```
 
 说明：
