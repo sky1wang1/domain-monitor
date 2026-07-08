@@ -1,0 +1,3 @@
+example-random.edu.kg
+example.com
+test-domain.net
